@@ -1,0 +1,6 @@
+streamlit
+groq
+supabase
+sentence-transformers
+torch
+httpx
